@@ -1,5 +1,4 @@
 ## lv-models
-==
 
 This repo contains a collection of latent variable models used for modeling neural data. For an example use case, see our paper entitled
 "Revealing unobserved factors underlying cortical activity with a rectified latent variable model applied to neural population recordings"
